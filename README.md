@@ -1,2 +1,2 @@
 # My-first-repository
-This is a simple codes for trading website.
+This is a simple project for trading website.
